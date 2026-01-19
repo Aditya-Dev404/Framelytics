@@ -1,5 +1,5 @@
 {
-  "id": "a7k9m2",
+  "id": "frmtx1",
   "name": "Framelytics",
   "description": "Analyze your Framer project for SEO, accessibility, and links issues and get a detailed report to improve your site's performance.",
   "author": "Suhas R More",
@@ -11,7 +11,7 @@
     "configureManagedCollection",
     "syncManagedCollection"
   ],
-  "icon": "/icon.svg",
+  "icon": "/icon.png",
   "useHttps": false,
   "port": 3000
 }
